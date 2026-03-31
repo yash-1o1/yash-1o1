@@ -4,6 +4,8 @@
 
 I build desktop and mobile applications, with a focus on game launchers and self-hosted tooling.
 
+[![Links](https://img.shields.io/badge/-All%20My%20Links-000?style=flat&logo=linktree&logoColor=white)](https://dakrbrawl.carrd.co/)
+
 ## Current Projects
 
 **[Wingosy Launcher](https://github.com/yash-1o1/wingosy-launcher)** — Windows-native game launcher with RomM integration. Built with Rust + Tauri + React.
