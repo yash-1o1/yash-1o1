@@ -1,18 +1,42 @@
 {
-  "repos": 21,
+  "repos": 18,
   "stars": 0,
-  "commits": 49,
-  "contributions": 49,
-  "followers": 1,
+  "commits": 42,
+  "contributions": 57,
+  "followers": 2,
   "following": 4,
   "years": 6,
   "languages": [
-    {"name": "Rust", "percentage": 35, "color": "#dea584"},
-    {"name": "Python", "percentage": 25, "color": "#3572A5"},
-    {"name": "C", "percentage": 15, "color": "#555555"},
-    {"name": "Java", "percentage": 10, "color": "#b07219"},
-    {"name": "JavaScript", "percentage": 8, "color": "#f1e05a"},
-    {"name": "Kotlin", "percentage": 7, "color": "#A97BFF"}
+    {
+      "name": "C",
+      "percentage": 24.7,
+      "color": "#555555"
+    },
+    {
+      "name": "TypeScript",
+      "percentage": 24.6,
+      "color": "#3178c6"
+    },
+    {
+      "name": "JavaScript",
+      "percentage": 21.2,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "Java",
+      "percentage": 19.0,
+      "color": "#b07219"
+    },
+    {
+      "name": "Rust",
+      "percentage": 7.6,
+      "color": "#dea584"
+    },
+    {
+      "name": "C#",
+      "percentage": 3.0,
+      "color": "#178600"
+    }
   ],
-  "updated": "2026-03-31"
+  "updated": "2026-03-31 19:23 UTC"
 }
