@@ -1,0 +1,18 @@
+{
+  "repos": 21,
+  "stars": 0,
+  "commits": 49,
+  "contributions": 49,
+  "followers": 1,
+  "following": 4,
+  "years": 6,
+  "languages": [
+    {"name": "Rust", "percentage": 35, "color": "#dea584"},
+    {"name": "Python", "percentage": 25, "color": "#3572A5"},
+    {"name": "C", "percentage": 15, "color": "#555555"},
+    {"name": "Java", "percentage": 10, "color": "#b07219"},
+    {"name": "JavaScript", "percentage": 8, "color": "#f1e05a"},
+    {"name": "Kotlin", "percentage": 7, "color": "#A97BFF"}
+  ],
+  "updated": "2026-03-31"
+}

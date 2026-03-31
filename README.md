@@ -6,6 +6,12 @@ I build desktop and mobile applications, with a focus on game launchers and self
 
 [![Links](https://img.shields.io/badge/-All%20My%20Links-000?style=flat&logo=linktree&logoColor=white)](https://dakrbrawl.carrd.co/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-1o1/yash-1o1/main/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-1o1/yash-1o1/main/light_mode.svg">
+  <img src="https://raw.githubusercontent.com/yash-1o1/yash-1o1/main/dark_mode.svg" alt="GitHub Stats">
+</picture>
+
 ## Current Projects
 
 **[Wingosy Launcher](https://github.com/yash-1o1/wingosy-launcher)** — Windows-native game launcher with RomM integration. Built with Rust + Tauri + React.
