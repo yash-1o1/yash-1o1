@@ -32,4 +32,4 @@ I build desktop and mobile applications, with a focus on game launchers and self
 
 If you find my projects useful, consider supporting my work:
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P61X08JP#payment-widget)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkbrawl)
