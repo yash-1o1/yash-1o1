@@ -12,12 +12,6 @@ I build desktop and mobile applications.
   <img src="https://raw.githubusercontent.com/yash-1o1/yash-1o1/main/dark_mode.svg" alt="GitHub Stats">
 </picture>
 
-## Current Projects
-
-**[Wingosy Launcher](https://github.com/yash-1o1/wingosy-launcher)** — Windows-native game launcher with RomM integration. Built with Rust + Tauri + React.
-
-**[Argosy Launcher](https://github.com/yash-1o1/argosy-launcher)** — Android client for RomM, for syncing and launching games on mobile. Built with Kotlin.
-
 ## Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
