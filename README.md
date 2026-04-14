@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Buenos Aires, Argentina.
 
-I build desktop and mobile applications, with a focus on game launchers and self-hosted tooling.
+I build desktop and mobile applications.
 
 [![Links](https://img.shields.io/badge/-All%20My%20Links-000?style=flat&logo=linktree&logoColor=white)](https://dakrbrawl.carrd.co/)
 
